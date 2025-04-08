@@ -57,6 +57,14 @@ To run this project locally, ensure you have the following installed:
 flutter pub get
 ```
 
+### 💻 Project Demo Video
+
+
+https://github.com/user-attachments/assets/23ed0f10-e534-4882-9cbd-c12a7fa0fb2a
+
+
+
+
 ### 🧑‍💻 Configuration
 
 **Gemini API Key:**
