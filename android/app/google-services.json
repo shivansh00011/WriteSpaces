@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309336200344",
+    "project_id": "writespace-b572f",
+    "storage_bucket": "writespace-b572f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309336200344:android:0c5264c9f51b40210deced",
+        "android_client_info": {
+          "package_name": "com.example.writespace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArJFgveDZ4GPCcg3Isout8mGe0NfhXp3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
