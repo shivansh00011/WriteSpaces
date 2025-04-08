@@ -106,7 +106,7 @@ class _NewNotePageState extends State<NewNotePage> {
 
     try {
       final response = await http.post(
-        Uri.parse("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBsQOs4n2M9Yc79DuPLWi456p5VlQtLv3g"),
+        Uri.parse("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=YOUR_API_KEY"),
         headers: {'Content-Type': 'application/json'},
         body: jsonEncode({
           "contents": [
@@ -149,7 +149,7 @@ class _NewNotePageState extends State<NewNotePage> {
 
     try {
       final response = await http.post(
-        Uri.parse("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBsQOs4n2M9Yc79DuPLWi456p5VlQtLv3g"),
+        Uri.parse("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=YOUR_API_KEY"),
         headers: {'Content-Type': 'application/json'},
         body: jsonEncode({
           "contents": [
