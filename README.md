@@ -1,7 +1,7 @@
 
 # 🧠 WriteSpaces - Smart Note Companion
 
-AI Notes is a modern, intelligent note-taking app powered by Gemini AI. Whether you're capturing quick ideas or creating long-form content, this app helps you write smarter, faster, and cleaner. With real-time AI typing, formatting support, and a minimal design — writing becomes an effortless habit.
+WriteSpaces is a modern, intelligent note-taking app powered by Gemini AI. Whether you're capturing quick ideas or creating long-form content, this app helps you write smarter, faster, and cleaner. With real-time AI typing, formatting support, and a minimal design — writing becomes an effortless habit.
 
 
 
